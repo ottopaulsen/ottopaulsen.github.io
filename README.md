@@ -1,2 +1,3 @@
-# ottopaulsen.github.io
-GH Pages front page
+# Documentation
+
+[node-red-contrib-power-saver](./node-red-contrib-power-saver/)
