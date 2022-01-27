@@ -1,3 +1,3 @@
 # Documentation
 
-[node-red-contrib-power-saver](./node-red-contrib-power-saver/)
+## [Power Saver / node-red-contrib-power-saver](./node-red-contrib-power-saver/)
